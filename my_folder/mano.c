@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int a=5;
+#include<conio.h>
 int function(){
 printf("hello");
 }
