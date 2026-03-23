@@ -5,6 +5,7 @@ int a=5;
 int a=5;
 int function(){
 printf("hello");
+printf("i am shiva");
 }
 int main(){
    int(*ptr)();
